@@ -1,9 +1,10 @@
 AI-Powered Customer Support Chatbot
 
 1. Project Overview
+
 This project focuses on planning and developing an AI-powered chatbot that automates customer support by answering common customer questions quickly and consistently.
 
- 2. Project Objectives
+ 3. Project Objectives
 - Automate responses to frequently asked questions.
 - Improve customer response times.
 - Reduce the workload of customer support staff.
